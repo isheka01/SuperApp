@@ -1,0 +1,17 @@
+.leftImage{
+    background-image: url('../images/home-image.png');
+    background-size: contain;
+    height: 105vh;
+    width: 50vw;
+    position: relative;
+}
+.leftImage > p{
+    color: white;
+    font-size: 55px;
+    letter-spacing: 2%;
+    font-family: Roboto,system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 800;
+    position: absolute;
+    bottom: 5vh;
+    padding: 5vh 2vw;
+}
